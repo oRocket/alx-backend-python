@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+"""
+Module that write an async routine called wait_n that takes in 2 int arguments
+"""
 
 import asyncio
 from typing import List
